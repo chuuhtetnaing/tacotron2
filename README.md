@@ -1,4 +1,4 @@
-# Thai Text to Speech by Tacotron2
+# Thai Text to Speech by Tacotron2 [![DOI](https://zenodo.org/badge/373199023.svg)](https://zenodo.org/badge/latestdoi/373199023)
 This Repository is the implementation of Tacotron2 using Thai Dataset. 
 
 This Thai TTS 
